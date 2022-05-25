@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarsRover.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "testfile123.txt"
+    }
+  }
+}
